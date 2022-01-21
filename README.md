@@ -1,5 +1,5 @@
-## docker commands
-
+## NodeJs Consumer and Publisher with RabbitMQ
+Simple consumer and publisher example
 ### Spin rabbitmq server docker
 docker run --name rabbitmq -p 5672:5672  -d rabbitmq
 
